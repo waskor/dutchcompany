@@ -1,0 +1,22 @@
+@keyframes color-transition {
+    0% {
+      background-color: #006854;
+    }
+    25% {
+      background-color: #D2007D;
+    }
+    50% {
+      background-color: #0a4e87;
+    }
+    75% {
+      background-color: #000000;
+    }
+    100% {
+      background-color: #006854;
+    }
+  }
+  
+  .body-color-transition {
+    animation: color-transition 10s infinite;
+  }
+  
