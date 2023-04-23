@@ -18,6 +18,7 @@
 
 .body-color-transition {
   animation: color-transition 10s infinite;
+  min-height: 100vh;
 }
 
 .logo {
